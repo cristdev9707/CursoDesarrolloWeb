@@ -1,2 +1,2 @@
 # CursoDesarrolloWeb
-Curso de Desarrollo web de Cristian Estupiñan Martinez
+Prueba para subir este archivo al repositorio de GitHub
